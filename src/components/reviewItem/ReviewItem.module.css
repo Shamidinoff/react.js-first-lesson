@@ -1,0 +1,8 @@
+.review {
+  max-width: 500px;
+  background-color: rgb(255, 171, 69);
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
