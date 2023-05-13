@@ -1,0 +1,30 @@
+.button {
+  border: none;
+  padding: 15px 20px;
+  margin: 15px 20px;
+  background-color: rgb(70, 70, 255);
+  cursor: pointer;
+
+  font-size: 24px;
+}
+
+.round {
+  border-radius: 30px;
+  padding: 15px 80px;
+  background-color: #a3cece;
+  font-size: 24px;
+}
+
+.big {
+  padding: 15px 101px;
+  background-color: #ffcc73;
+  font-size: 24px;
+}
+
+.small {
+  padding: 10px 71px;
+  background-color: #cdcdcd;
+  color: black;
+  border: 1px solid black;
+  font-size: 24px;
+}
