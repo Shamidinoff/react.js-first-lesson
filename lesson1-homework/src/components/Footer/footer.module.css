@@ -1,0 +1,39 @@
+.footerHead {
+  background-color: orange;
+  padding: 10px 0;
+}
+
+.container {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.footerFlex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footerHeadItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+  width: 400px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 12px;
+}
+
+.footerHeadItemDescr {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+  width: 500px;
+}
